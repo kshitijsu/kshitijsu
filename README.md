@@ -1,5 +1,5 @@
-### Namaste, This is Kshitij 👋
-
+### Namaste🙏 
+# This is Kshitij ✌️
 <!--
 **kshitijsu/kshitijsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
