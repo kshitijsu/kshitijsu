@@ -10,5 +10,7 @@ This is Kshitij Surendra Ukey, I'm a software engineer 👨‍💻 who is passio
 
 > Vie Satisfaite
 
+![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=kshitijsu)
+
 ---
 ⭐️ From [kshitijsu](https://github.com/kshitijsu)
