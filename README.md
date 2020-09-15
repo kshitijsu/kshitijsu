@@ -1,16 +1,14 @@
-### Namaste🙏 
-# This is Kshitij ✌️
-<!--
-**kshitijsu/kshitijsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kshitij Surendra Ukey 
 
-Here are some ideas to get you started:
+## Namaste 🙏, 
+This is Kshitij Surendra Ukey, I'm a software engineer 👨‍💻 who is passionate about web and mobile technologies and open source. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Angular and Asp.net
+- 🌱 I’m currently learning Django
+- 💬 Ask me about: tech and ideas
+-  ⚡ Languages: C/C++, Javascript, Dart, Python3
+
+> Vie Satisfaite
+
+---
+⭐️ From [kshitijsu](https://github.com/kshitijsu)
